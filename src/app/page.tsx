@@ -17,8 +17,8 @@ export default function Home() {
     <div className='yoo max-sm:mb-10 mt-[75px] flex flex-col items-center justify-center space-y-5'>
       
       
-      <h1 className='max-sm:mt-10 text-white text-5xl font-[550] text-center max-sm:text-4xl'>The Best Social<br className='hero:hidden'/> Media Agency</h1>
-      <p className='text-white text-center text-xl w-[750px] max-hero:w-[500px] max-sm:w-[350px]'>We help brands grow on Social Media with a team of Graphic Designers, Video Editors, Professional Marketers and more!</p>
+      <h1 className='max-sm:mt-10 text-white text-5xl font-bold text-center max-sm:text-4xl'>The Best Social<br className='hero:hidden'/> Media Agency</h1>
+      <p className='text-white text-center text-xl w-[750px] max-hero:w-[500px] max-sm:w-[350px] font-medium'>We help brands grow on Social Media with a team of Graphic Designers, Video Editors, Professional Marketers and more!</p>
       
       <div className='space-x-3'>
       <a href='#services'><button className='text-white font-[550] bg-[#555555] hover:bg-[#444444] px-4 py-1 rounded-full text-xl'>Learn More</button></a>
@@ -33,25 +33,25 @@ export default function Home() {
       <div className=' px-5 flex flex-col justify-center items-center rounded-[50px] border-2 hover:border-red-600 border-[#444444] h-[360px] w-[300px] bg-[#222222]'>
         <FontAwesomeIcon className='text-white h-[50px] text-[#999999]' icon={faPeopleGroup}/>
         <h1 className='text-[silver] text-3xl font-bold mt-2'>Marketing</h1>
-        <p className='mt-2 text-[silver] text-xl text-center'>Our team will ensure the growth of your brand through professional marketing techniques and personalized ads across multiple social media platforms.</p>
+        <p className='mt-2 text-[silver] text-xl text-center font-medium'>Our team will ensure the growth of your brand through professional marketing techniques and personalized ads across multiple social media platforms.</p>
       </div>
 
       <div className='px-5 flex flex-col justify-center items-center rounded-[50px] border-2 hover:border-red-600 border-[#444444] h-[360px] w-[300px] bg-[#222222]'>
         <FontAwesomeIcon className='text-white h-[50px] text-[#999999]' icon={faSwatchbook}/>
         <h1 className='text-[silver] text-3xl font-bold mt-2'>Graphic Design</h1>
-        <p className='mt-2 text-[silver] text-xl text-center'>Our designers use creativity to produce visually stunning materials that not only capture attention but also resonate with your audience.</p>
+        <p className='mt-2 text-[silver] text-xl text-center font-medium'>Our designers use creativity to produce visually stunning materials that not only capture attention but also resonate with your audience.</p>
       </div>
 
 <div className='px-5 flex flex-col justify-center items-center rounded-[50px] border-2 hover:border-red-600 border-[#444444] h-[360px] w-[300px] bg-[#222222]'>
         <FontAwesomeIcon className='text-white h-[50px] text-[#999999]' icon={faVideo}/>
         <h1 className='text-[silver] text-3xl font-bold mt-2'>Video Editing</h1>
-        <p className='mt-2 text-[silver] text-xl text-center'>Our video editors produce amazing content for our clients, using advanced motion graphics and typography we create any kinds of professional videos</p>
+        <p className='mt-2 text-[silver] text-xl text-center font-medium'>Our video editors produce amazing content for our clients, using advanced motion graphics and typography we create any kinds of professional videos</p>
       </div>
 
 <div className=' px-5 flex flex-col justify-center items-center rounded-[50px] border-2 hover:border-red-600 border-[#444444] h-[360px] w-[300px] bg-[#222222]'>
         <FontAwesomeIcon className='text-white h-[50px] text-[#999999]' icon={faLaptopFile}/>
         <h1 className='text-[silver] text-3xl font-bold mt-2'>Websites</h1>
-        <p className='mt-2 text-[silver] text-xl text-center'>Although we're a social media agency, we also have a team of developers to make sure we create professional websites for our clients and brands.</p>
+        <p className='mt-2 text-[silver] text-xl text-center font-medium'>Although we're a social media agency, we also have a team of developers to make sure we create professional websites for our clients and brands.</p>
       </div>
     </div>
     </div>
