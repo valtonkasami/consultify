@@ -75,12 +75,12 @@ Our success is rooted in a client-centric philosophy that prioritizes collaborat
     <h2 className='text-red-600 font-[550] text-xl'>CONTACT</h2>
     <h1 className='text-[silver] font-bold text-3xl max-sm:text-2xl text-center'>Feel free to contact us anytime!</h1>
 
-    <div className='w-full grid grid-cols-3 gap-x-3 gap-y-3 mt-3 max-con:grid-cols-2 max-one:grid-cols-1'>
-    <a href='mailto:consultify.agency@gmail.com' target='blank'><div className='flex items-center bg-[#222222] hover:border-red-600 w-full px-2 py-2 border-2 border-[#444444] rounded-[15px]'>
+    <div className='w-full grid grid-cols-3 gap-x-3 gap-y-3 mt-3 max-nn:grid-cols-2 max-one:grid-cols-1'>
+    <a href='mailto:consultify.agency@gmail.com' ><div className='flex items-center bg-[#222222] hover:border-red-600 one:w-[300px] w-full px-2 py-2 border-2 border-[#444444] rounded-[15px]'>
                 <div className='h-12 w-12 bg-[#333333] border-2 border-[#888888] flex items-center justify-center mr-3 rounded-full text-red-600'><FontAwesomeIcon className='text-2xl' icon={faMailForward}/></div>
                 <div>
                 <h1 className='font-bold text-red-600'>Email</h1>
-                <p className='font-medium text-[silver]'>consultify.agency@gmail.com</p>
+                <p className='font-medium text-[silver]'>Click to email</p>
                 </div>
             </div></a>
 

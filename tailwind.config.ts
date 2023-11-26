@@ -12,7 +12,8 @@ const config: Config = {
         'hero': '821px',
         'big': '1357px',
         'con': '1067px',
-        'one': '728px'
+        'one': '728px',
+        'nn': '990px'
       },
     },
   },
