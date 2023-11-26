@@ -76,7 +76,7 @@ Our success is rooted in a client-centric philosophy that prioritizes collaborat
     <h1 className='text-[silver] font-bold text-3xl max-sm:text-2xl text-center'>Feel free to contact us anytime!</h1>
 
     <div className='w-full grid grid-cols-3 gap-x-3 gap-y-3 mt-3 max-con:grid-cols-2 max-one:grid-cols-1'>
-    <a href='mailto:consultify.agency@gmail.com' target='blank'><div className='flex items-center bg-[#222222] hover:border-red-600  one:w-[280px] w-full px-2 py-2 border-2 border-[#444444] rounded-[15px]'>
+    <a href='mailto:consultify.agency@gmail.com' target='blank'><div className='flex items-center bg-[#222222] hover:border-red-600 w-full px-2 py-2 border-2 border-[#444444] rounded-[15px]'>
                 <div className='h-12 w-12 bg-[#333333] border-2 border-[#888888] flex items-center justify-center mr-3 rounded-full text-red-600'><FontAwesomeIcon className='text-2xl' icon={faMailForward}/></div>
                 <div>
                 <h1 className='font-bold text-red-600'>Email</h1>
@@ -84,7 +84,7 @@ Our success is rooted in a client-centric philosophy that prioritizes collaborat
                 </div>
             </div></a>
 
-            <a href='https://www.instagram.com/consultify_agency/' target='blank'><div className='flex items-center bg-[#222222] one:w-[280px] w-full px-2 py-2 border-2 border-[#444444] hover:border-red-600 rounded-[15px]'>
+            <a href='https://www.instagram.com/consultify_agency/' target='blank'><div className='flex items-center bg-[#222222] w-full px-2 py-2 border-2 border-[#444444] hover:border-red-600 rounded-[15px]'>
                 <div className='h-12 w-12 bg-[#333333] border-2 border-[#888888] flex items-center justify-center mr-3 rounded-full text-red-600'><FontAwesomeIcon className='text-3xl' icon={faInstagram}/></div>
                 <div>
                 <h1 className='font-bold dark:text-red-600'>Instagram</h1>
@@ -92,7 +92,7 @@ Our success is rooted in a client-centric philosophy that prioritizes collaborat
                 </div>
             </div></a>
 
-            <a href='tel:+38971944449' target='blank'><div className='flex items-center bg-[#222222] one:w-[280px] w-full px-2 py-2 border-2 border-[#444444] hover:border-red-600 rounded-[15px]'>
+            <a href='tel:+38971944449' target='blank'><div className='flex items-center bg-[#222222] w-full px-2 py-2 border-2 border-[#444444] hover:border-red-600 rounded-[15px]'>
                 <div className='h-12 w-12 bg-[#333333] border-2 border-[#888888] flex items-center justify-center mr-3 rounded-full text-red-600'><div className='rounded-full flex items-center justify-center h-9 w-9 overflow-hidden'><FontAwesomeIcon className='text-[23px] h-[25px]' icon={faPhone}/></div></div>
                 <div>
                 <h1 className='font-bold dark:text-red-600'>Phone</h1>
