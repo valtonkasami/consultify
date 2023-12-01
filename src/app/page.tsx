@@ -17,7 +17,7 @@ export default function Home() {
     <div className='yoo max-sm:mb-10 mt-[75px] flex flex-col items-center justify-center space-y-5'>
       
       
-      <h1 className='max-sm:mt-10 text-white text-5xl font-bold text-center max-sm:text-4xl'>The<br className='hero:hidden'/> Marketing Agency</h1>
+      <h1 className='max-sm:mt-10 text-white text-5xl font-bold text-center max-sm:text-4xl'>The Best Digital<br className='hero:hidden'/> Marketing Agency</h1>
       <p className='text-white text-center text-xl w-[750px] max-hero:w-[500px] max-sm:w-[350px] font-medium'>We help brands grow on Social Media with a team of Graphic Designers, Video Editors, Professional Marketers and more!</p>
       
       <div className='space-x-3'>
